@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "task": "tftr",
+      "status": false,
+      "id": 12
+    },
+    {
+      "task": "ki",
+      "status": true,
+      "id": 22
+    },
+    {
+      "task": "m",
+      "status": true,
+      "id": 23
+    },
+    {
+      "task": "n",
+      "status": false,
+      "id": 24
+    },
+    {
+      "task": "l",
+      "status": false,
+      "id": 25
+    }
+  ]
+}
